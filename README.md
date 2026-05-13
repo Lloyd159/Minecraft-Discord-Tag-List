@@ -8,7 +8,7 @@ When using tags inside the discord server, __do not spam them__! Instead, use ea
 needed. This includes "trying tags out" to see how they work or fooling around using them.  
 The server's [rules](https://discord.com/channels/302094807046684672/302094807046684672) always apply.
 
-### How to use tags
+### How to use tags:
 - You can use tags to make _New Shiny Golem_ send a tag in the chat.
 - The current Prefix is `!` and the command is called `t`.
 - The format is `!t tag` for standart tags and `!t category tag` for specific category tags.

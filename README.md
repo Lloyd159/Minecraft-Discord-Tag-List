@@ -1,5 +1,5 @@
 # Minecraft Discord Tag List
-A comprehensive community-run list of the dyno tags for the official Minecraft Discord server
+A comprehensive community-run list of the dyno tags for the official Minecraft Discord server. Do NOT spam these!
 
 ## Important Notes, read those first:
 This page is a list of all tags for the [official Minecraft Discord](https://discord.gg/minecraft)!  

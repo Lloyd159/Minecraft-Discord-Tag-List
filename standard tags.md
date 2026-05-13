@@ -9,4 +9,4 @@
   <#302094807046684672> 
   :loudspeaker: **6. No self-promotion or advertisements.** This includes unsolicited references and links to other social media, servers, communities, and solicitation/recruitment of services in chat or direct messages.
 # yes
-  minecraft yes yes
+minecraft yes yes

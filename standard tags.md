@@ -140,16 +140,31 @@ https://i.imgur.com/hBYu5ZI.png
 :shield️: **7. No personal information.** Protect your own privacy and safety, as well as that of others, by not requesting or sharing personal information. That includes ages, real names, exact location, IP addresses, etc.
 
 # pol
+<#302094807046684672> - :classical_building:️ **No political or religious topics.**  
+These complex subjects result in controversial and offensive posts that can offend, hurt, and create a non-inclusive environment.
 
 # pref
+**Minecraft is Minecraft.** All editions are great and each has its own strong points. Play the edition that you prefer and let others do the same.
 
 # refund
+Find out if you're eligible to receive a refund for Minecraft: Java Edition or Minecraft Realms subscriptions, and view refund policies for your device’s store for Minecraft (Bedrock) and Minecoin purchases.  
+https://help.minecraft.net/hc/en-us/articles/360030463592
 
 # spam
+✋ Please don't spam here!
 
 # support
+<:grass:325831548198715393> Get help \_\_**from Minecraft Support**\_\_ with the game, the marketplace, Realms, and other technical issues via <https://help.minecraft.net/>.
+
+<:xbox:628987335731576855> Get help \_\_**from Xbox Support**\_\_ with Xbox/Microsoft account issues and Microsoft Store purchases via <https://support.xbox.com/contact-us/minecraftdiscord>.
+
+:busts_in_silhouette: Get help \_\_**from other players**\_\_ with basic game issues in the <#302987265229979649> channel. Describe what edition of the game you’re playing, its version number, and a description of your issue. The more detailed, the better chance you can get your problems resolved. The awesome people helping in community support are volunteers and players just like you, so please be patient when receiving help.
 
 # welcome
+👋 Welcome to all new members!  
+📖 Read<#302094807046684672> and <#586810835498696704>.  
+🎯 Stay on topic.  
+🗨️ Go to <#1475264918474195016> for non-Minecraft chat.
 
 # yes
 minecraft yes yes

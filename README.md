@@ -25,3 +25,16 @@ The server's [rules](https://discord.com/channels/302094807046684672/30209480704
     categorys in their native language. Each tag in this category does this in a different language.
 - `names`:
     Special tags about various people, usually mods or admins.
+
+### How this repo works:
+- There is one file per category. Every tag has an entry in their category, consisting of the tags
+  name, followed by the content (what the bot sends when you use it).
+- Small details as underlines or emojis may be missing as markdown text (used in these files) does
+  not really allow them. Emojis are typed out with their name and id, following discord's format.
+- As this list is not official and run by the community in their free time, it may not be complete
+  and not always up to date.
+
+### If you see mistakes or outdated/missing tags:
+- Create a issue on this repo
+- Message me on discord (via ping in the server or DM, state why you are messaging in your first
+  message or I might ignore you. My discord name is `lloyd_159`.)

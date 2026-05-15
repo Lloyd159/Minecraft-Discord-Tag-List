@@ -1,8 +1,8 @@
 ---
-name: Missing tag
+name: Missing Tag
 about: Suggest to add a tag which is missing in this repo.
 title: "[TAG]"
-labels: ''
+labels: tag request
 assignees: Lloyd159
 
 ---

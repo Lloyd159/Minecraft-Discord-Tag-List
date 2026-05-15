@@ -1,6 +1,6 @@
-###Category: lang
+### Category: lang
 
-These tags are part of the `lang`-category and work after the format `!t misc name`, with `name` being the name of the tag.  
+These tags are part of the `lang`-category and work after the format `!t lang name`, with `name` being the name of the tag.  
 These are used to tell non-english speaking server members about the server's language policy. This includes only speaking english in the default chats and speaking other, specific languages like german in the language categories.
 Do not spam these, only use them once if needed. If members keep speaking in non-english languages, it's better to call an assistant mod.
 

@@ -1,10 +1,14 @@
-###Category: misc
+### Category: misc
 
 These tags are part of the `misc`-category and work after the format `!t misc name`, with `name` being the name of the tag.  
 These are mostly for fun and jokes, reminder not to spam or abuse them!
 
 # anna
 anna is a name
+
+# backup
+Friewendly reminder ✨️  
+to pweasewe make a backup of your survival woworlds at last oncewe a month, incasewe your saves go oopsie whoopsie🥹❤️
 
 # bdt
 Ba dum tss! 🥁

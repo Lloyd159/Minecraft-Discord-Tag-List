@@ -1,4 +1,4 @@
-###Category: names
+### Category: names
 
 These tags are part of the `names`-category and work after the format `!t names name`, with `name` being the name of the tag.  
 They each are about a person from the server, usually mods or admins.

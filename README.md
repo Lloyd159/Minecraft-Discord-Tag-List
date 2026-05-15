@@ -17,16 +17,16 @@ That being said, feel free to ping me on any questions or suggestions like missi
 - The format is `!t tag` for standart tags and `!t category tag` for specific category tags.
 
 ### The current categorys:
-- Standart ((`standart tags.md`)[https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/standard tags.md]):  
+- Standart ([`standart tags.md`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/standard tags.md)):  
     Standart tags have no category. This includes most tags normally used for rule-reminders,  
     notifications or information.  
-- (`misc`)[https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/misc.md]:  
+- [`misc`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/misc.md):  
     Miscellaneous tags are all kinds of tags used for fun, simple messages.  
     Reminder to not overuse or spam these!  
-- (`lang`)[https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/lang.md]:  
+- [`lang`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/lang.md):  
     Language tags are tags which inform people that the server is english-only, except for language  
     categorys in their native language. Each tag in this category does this in a different language.  
-- (`names`)[https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/names.md]:  
+- [`names`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/names.m)]:  
     Special tags about various people, usually mods or admins.
 
 ### How this repo works:
@@ -39,11 +39,11 @@ That being said, feel free to ping me on any questions or suggestions like missi
   about. Therefore help with any missing tags is greatly appreciated!
 
 ### Other files:
-besides the category files (see above), there are multiple other files in this repo.  
+Besides the category files (see above), there are multiple other files in this repo.  
 Here is a breakdown:  
-- (`README.md`)[https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/README.md]  
+- [`README.md`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/README.md)  
 	This file. Contains information about this github.  
-- (`removed tags.md`)[https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/other tags.md]  
+- [`removed tags.md`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/other tags.md)  
 	Contains tags which are unkown or still missing in this repo, like I know the message by the bot  
 	but have no clue what the tag is called, or tags which got removed or are currently not working.
 

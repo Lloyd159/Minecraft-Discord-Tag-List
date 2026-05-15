@@ -1,4 +1,4 @@
-###Standard tags
+### Standard tags
 
 These tags don't require any category and work after the format `!t name`, with `name` being the name of the tag.
 Do not spam or abuse any tags!

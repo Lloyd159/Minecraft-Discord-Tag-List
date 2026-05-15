@@ -7,6 +7,9 @@ Do not spam these, only use them once if needed. If members keep speaking in non
 Note: Unlike the tags in the other categories, I added the full english name of the language in brackets behind the tags for this category, for easier usage :)
 Also global is the english tag (which used to be just `!t lang` in the past, that doesnt work anymore tho).
 
+
+
+
 # ar (Arabic)
 أهلاً بكم في ديسكورد ماينكرافت الرسمي. نرجو منكم استخدام اللغة الإنجليزية فقط عند الكتابة في السيرفر، لأن مجتمع ماينكرافت مجتمع عالمي، واللغة الإنجليزية هي الأكثر شيوعًا، مما يساعد أكبر عدد ممكن من المستخدمين على التواصل مع بعضهم.
 

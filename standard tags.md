@@ -1,3 +1,8 @@
+###Standard tags
+
+These tags don't require any category and work after the format `!t name`, with `name` being the name of the tag.
+Do not spam or abuse any tags!
+
 # accsafety
 <:iron_golem:631748221131292674> **Keep your account safe and secure!**  
 If anyone asks you for your email and password or any codes sent to the email that relates to your Microsoft account, it is a scam!  
@@ -18,6 +23,10 @@ If someone is trying to start arguments, inform a moderator via [modmail](<https
 <a:high_five:600926604583108608> **Help people help you!** Don't just say "I need help" or "Can anyone help me?"  
 
 <:jeb_think:494553523065978905> Be open with your question, explain exactly what you need help with, the exact error messages you get if any, and what you have tried already. Also include your device and game version. This will help others understand what you need help with. <:agnes:494553591755833355>
+
+# beta
+🧪 Test new features in Minecraft snapshots and betas. Keep in mind that snapshots and betas have bugs, can't join Realms, and can't play with release versions. Backup your worlds before using a snapshot or beta.  
+https://minecraft.net/en-us/article/how-get-minecraft-betas
 
 # bugs
 :saxophone::bug: **Report game bugs on the official bug tracker.** Check out the handy FAQ to learn how to report bugs and use the bug tracker.  
@@ -47,6 +56,30 @@ You need roles to see most channels here, such as the game discussion or art cha
 :art: **\_\_Please do not request or offer commissions\_\_ **  
 This server is not a marketplace. As such, we do not allow posts requesting or offering commissions (whether free or paid) nor any other form of advertising or creation requests. This includes, but is not limited to, art, textures, models, or any other type of creative work.
 
+# contact
+<:grass:325831548198715393>﻿ Get help **\_\_from Minecraft Support\_\_** with the game, the marketplace, Realms and other technical issues via <https://aka.ms/Minecraft-Support>.
+﻿
+﻿<:xbox:628987335731576855>﻿ Get help **\_\_from Xbox Support\_\_** with your Microsoft/Xbox account and the Microsoft Store via <https://support.xbox.com/contact-us/minecraftdiscord>.
+﻿
+**Note**: It may take a while to get a response. If you get an automated response, please read it carefully and reply with the required info if necessary.
+
+# contactxb
+<:xbox:628987335731576855>﻿ Get help **\_\_from Xbox Support\_\_** with your Microsoft/Xbox account and the Microsoft Store via <https://support.xbox.com/contact-us/minecraftdiscord>.
+﻿
+**Note**: It may take a while to get a response. If you get an automated response, please read it carefully and reply with the required info if necessary.
+
+# contactmc
+<:grass:325831548198715393>﻿ Get help **\_\_from Minecraft Support\_\_** with the game, the marketplace, Realms, and minecraft.net purchases via <https://aka.ms/Minecraft-Support>.
+
+**Note**: It may take a while to get a response. If you get an automated response, please read it carefully and reply with the required info if necessary.
+
+# coppa
+Discord Terms of Service and government laws (COPPA, GDPR) don't allow users who are younger than 13 years old to use Discord, even if they have a parent's permission. This is to protect the privacy and online safety of minors.
+
+• Discord Terms of Service: <https://discordapp.com/terms>  
+• Child Online Privacy Protection Act (COPPA): <https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act>  
+• General Data Protection Regulation (GDPR): <https://en.wikipedia.org/wiki/General_Data_Protection_Regulation>
+
 We encourage sharing, discussing, and asking for feedback or advice on your own creations, but we ask that you refrain from using the server to seek clients, collaborators or creators.
 
 # cs
@@ -63,23 +96,62 @@ All rules from <#302094807046684672> apply here. Do not spam, "bump" your reques
 
 \_\_Your need for support does not supersede the rules.\_\_ Please be patient and kind to those around you.
 
+# demo
+<:agnes:494553591755833355> **Want to try Minecraft before buying it?**  
+Try the free trial for your device here: <https://www.minecraft.net/free-trial>
+
+Want to try out multiplayer as well? Subscribe to **Xbox Game Pass** (Xbox consoles & PC) to access the full version of Minecraft, and hundreds of other games, for one low monthly price:  <https://www.xbox.com/games/minecraft>
+
+You can also travel back in time and try a very early Minecraft version for free right in your browser! <https://classic.minecraft.net>
+
 # feedback
 :bulb: Submit your ideas and suggestions for Minecraft and the Minecraft Discord on the official feedback server.  
 https://discord.gg/MinecraftFeedback
+
+# fos
+Discord is a private platform, and while free speech is an important concept, it's important to understand that it primarily applies to government actions limiting speech. While you have the right to express your opinions, we also have the right to moderate content and enforce our own rules to ensure a positive user experience for everyone.
 
 # gamediff
 Need help choosing? Below are links with an overview of the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition!  
 - <https://help.minecraft.net/hc/en-us/articles/360058534412>  
 - <https://www.minecraft.net/en-us/article/java-or-bedrock-edition>  
 
+# kil
+<:chick:1478458684907585640> **Keep it Live!**  
+Please go to a different channel to chat about non-Minecraft Live related topics.
+
 # kim
 <a:minecraft_bounce:587505418406723584> **Keep it Minecraft!** Keep all content and discussions Minecraft-related. Go to <#1475264918474195016> for non-Minecraft chat.
+
+# leavebeta
+Unenroll from Minecraft (Bedrock) betas in the Xbox Insider Hub or Google Play Store. Any worlds you've created or loaded in a beta version won't be playable in the current release version. Backup your worlds before uninstalling.  
+https://help.minecraft.net/hc/en-us/articles/360040841471
+
+# livewhen
+⏰ **When is Minecraft Live?**  
+LIVE Show: <t:1774112400:F> (<t:1774112400:R>)  
+(Shown in your device’s local timezone)
+
+# livewhere
+📺 **Where can I watch the <:live:1484893169547214989> show?**  
+OFFICIAL SITE: <https://www.minecraft.net/live>  
+YOUTUBE:  <https://www.youtube.com/c/minecraft/>  
+TWITCH:  <https://www.twitch.tv/minecraft>
 
 # m
 :exclamation:<:jeb_scream:902408838983061515> **\_\_Multiplayer requests are not allowed in this channel!\_\_**  
 Read the <#910667005634424902> and then use <#910667265760956478> or <#910667146185572382> to find friends to play with. You can also visit the official server list at <https://findmcserver.com/> to find servers to play on. **Please do not post multiplayer requests in any other channels!**
 
 **Note:** Posting in these channels requires the \_\_Proven Adventurer\_\_ role. Read the <#586810835498696704> on how to get it. You can still read and DM people if you don't have the role yet.
+
+# mcreportserver
+<:agnes_eww:627001855464964116> **Found a Minecraft Server breaking the EULA?**
+
+This Discord server cannot verify anything that takes place in Minecraft. Even if you found a server through our LFG channels.
+
+Please do not call out, retaliate, provoke, antagonize, or start a witch hunt against an individual/individuals within the Discord server (or anywhere for that matter).
+
+Instead, find out how to report a server to the Minecraft team using the following link: https://help.minecraft.net/hc/en-us/articles/4409161646989-How-to-Report-a-Minecraft-Server
 
 # media
 :frame_photo:️ **Don't have permissions to post images or videos?**  
@@ -139,6 +211,16 @@ https://i.imgur.com/hBYu5ZI.png
 <#302094807046684672>  
 :shield️: **7. No personal information.** Protect your own privacy and safety, as well as that of others, by not requesting or sharing personal information. That includes ages, real names, exact location, IP addresses, etc.
 
+# preview
+<:grass_preview:938005877028421632> Minecraft Preview is a brand new way for you to test out our game without reinstalling the app or having to go through troublesome sign up steps!
+
+Learn more here: https://aka.ms/PreviewFAQ
+
+# pin
+📌 **Check the pinned messages and channel descriptions**  
+You can find all channel-specific info and more in the pinned messages.  
+The channel description gives you a quick overview of what the channel is about.
+
 # pol
 <#302094807046684672> - :classical_building:️ **No political or religious topics.**  
 These complex subjects result in controversial and offensive posts that can offend, hurt, and create a non-inclusive environment.
@@ -150,8 +232,28 @@ These complex subjects result in controversial and offensive posts that can offe
 Find out if you're eligible to receive a refund for Minecraft: Java Edition or Minecraft Realms subscriptions, and view refund policies for your device’s store for Minecraft (Bedrock) and Minecoin purchases.  
 https://help.minecraft.net/hc/en-us/articles/360030463592
 
+# report
+⚠️ **Moderators and Administrators are not accepting reports for offenses in DMs or other servers.**
+
+We understand you mean well, but we cannot fully verify anything that happens outside of this server. Don't name and shame or engage in arguments with offenders. Right-click or tap and hold the message, then select [\_\_Report Message\_\_](<https://dis.gd/howtoreport>) so Discord can deal with them appropriately. Thank you.
+
+# roles
+<:agnes:494553591755833355> Check out our <#586810835498696704> to learn more about earning roles, permissions to use LFG, and how to send images!
+
+# slowmode
+We have a slowmode between messages to keep chat in order and to reduce spam, as there's over a million members here. Every channel has its own slowmode, which gets adjusted regularly based on activity. Thank you for your understanding.
+
 # spam
 ✋ Please don't spam here!
+
+# specs
+Listing all the System Requirements will be too long. So you can read up on the particular device and version below.
+
+<:java:598000584691417098> **Java**:  <https://help.minecraft.net/hc/en-us/articles/4409225939853>  
+<:bedrock:787134728737390623> **Bedrock**: <https://help.minecraft.net/hc/en-us/articles/4409172223501-Minecraft-Installation-Issues-FAQ#h_01FFGQHFARYP67X5MV72G1T8TN>
+
+We have listed details for PC Java and Bedrock in <#302987265229979649> pins for your convenience.  
+<https://discordapp.com/channels/302094807046684672/302987265229979649/1080436820413780018>
 
 # support
 <:grass:325831548198715393> Get help \_\_**from Minecraft Support**\_\_ with the game, the marketplace, Realms, and other technical issues via <https://help.minecraft.net/>.
@@ -160,11 +262,43 @@ https://help.minecraft.net/hc/en-us/articles/360030463592
 
 :busts_in_silhouette: Get help \_\_**from other players**\_\_ with basic game issues in the <#302987265229979649> channel. Describe what edition of the game you’re playing, its version number, and a description of your issue. The more detailed, the better chance you can get your problems resolved. The awesome people helping in community support are volunteers and players just like you, so please be patient when receiving help.
 
+# updatewhen
+When it's done.
+
 # welcome
 👋 Welcome to all new members!  
 📖 Read<#302094807046684672> and <#586810835498696704>.  
 🎯 Stay on topic.  
 🗨️ Go to <#1475264918474195016> for non-Minecraft chat.
+
+# whatsapp
+Did you know we have a whatsapp channel? Here's the link to join: <https://aka.ms/MCWhatsApp>
+
+If you'd like to submit a question, comment, or special message, you can! See the form below:  
+<https://aka.ms/CraftyCrewCorner>
+
+# whyban
+<a:crafting:839235627857346601> **Please do not discuss enforcement actions taken against members in channels.**  
+Feel free to ping **a** Moderator or Administrator if you have a question or concern about the rules or any enforcement action **you** have received. We will handle discussions about that matter in a private channel on this server.
+
+# xboxsettings
+Manage your Microsoft account Xbox Live privacy settings for online multiplayer features. These are the settings that affect Minecraft (Bedrock) and Minecraft: Java Edition:
+
+Go to https://account.xbox.com/settings
+
+On the left side of the page, click Privacy & online safety, then click Xbox and Windows 10 devices Online Safety. Adjust the following items accordingly
+
+• You can join multiplayer games [Online multiplayer]  
+• You can create and join clubs [Realms]  
+• Others can communicate with voice, text, or invites [In-game chat and invites]  
+• Add friends
+
+If you are not considered an adult in your country, a parent or legal guardian will need to adjust your settings. 
+
+Find out how to manage your or your child's settings: https://support.xbox.com/en-US/help/family-online-safety/online-safety/manage-online-safety-and-privacy-settings-xbox-one  
+If you can't manage your own settings, a parent can add you to their Microsoft family group: <https://help.minecraft.net/hc/en-us/articles/4408968616077>  
+
+Please note that it may take up to 24 hours for the settings to take effect.
 
 # yes
 minecraft yes yes

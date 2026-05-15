@@ -6,6 +6,20 @@ Do not spam or abuse any tags!
 
 
 
+# acc
+**<:jeb_scream:902408838983061515> \_\_Having trouble with your Minecraft account?\_\_**  
+**Important:** Do not believe anyone that says they can help with your account via Discord! For your own safety, please do not give out your billing or private information to anyone here. 
+
+Instead, contact Microsoft/Xbox support for help. They're the **only** ones that can help with your account. <https://support.xbox.com/contact-us/minecraftdiscord>
+
+*Note: As Migration has ended, you are no longer able to receive help with unmigrated legacy/mojang accounts. See https://help.minecraft.net/hc/en-us/articles/19633473939981*
+
+# accountselling
+Selling, transfering, sharing, or distributing accounts is prohibited by the [Microsoft Services Agreement](<https://www.microsoft.com/en-us/servicesagreement>). https://imgur.com/a/D05qOTE
+
+# accounttypes
+<:microsoft:781921132591972402> **Minecraft uses Microsoft Accounts** across all editions. As the migration period has passed, any old accounts have been deleted and are unable to play the game or receive support. If you never migrated to a Microsoft account, you'll have to buy the game again at <https://minecraft.net>
+
 # accsafety
 <:iron_golem:631748221131292674> **Keep your account safe and secure!**  
 If anyone asks you for your email and password or any codes sent to the email that relates to your Microsoft account, it is a scam!  
@@ -35,6 +49,9 @@ https://minecraft.net/en-us/article/how-get-minecraft-betas
 :saxophone::bug: **Report game bugs on the official bug tracker.** Check out the handy FAQ to learn how to report bugs and use the bug tracker.  
 https://bugs.mojang.com/  
 https://help.minecraft.net/hc/en-us/articles/4408887473421
+
+# builds
+The <#305834181949390848> channel is only for sharing your minecraft/redstone creations! Keep the conversation on topic and keep the feedback kind and constructive!
 
 # buy
 Buy Minecraft on your device's store or the official site.  
@@ -107,12 +124,27 @@ Want to try out multiplayer as well? Subscribe to **Xbox Game Pass** (Xbox conso
 
 You can also travel back in time and try a very early Minecraft version for free right in your browser! <https://classic.minecraft.net>
 
+# down
+**⚠️ Realms issues**  
+There are reports of Realms experiencing connection problems. If you are unable to see or connect to your realms, please wait until the issue is fixed. Mojang has been informed and there is currently no workaround and no estimate on when the issue will be fixed.
+
+-# Last updated <t:1769974500:R>
+
 # feedback
 :bulb: Submit your ideas and suggestions for Minecraft and the Minecraft Discord on the official feedback server.  
 https://discord.gg/MinecraftFeedback
 
 # fos
 Discord is a private platform, and while free speech is an important concept, it's important to understand that it primarily applies to government actions limiting speech. While you have the right to express your opinions, we also have the right to moderate content and enforce our own rules to ensure a positive user experience for everyone.
+
+# gameban
+**<:jeb_scream:902408838983061515> \_\_Banned from Minecraft?\_\_**  
+Bans are given by content moderation staff to players that have violated the [Minecraft Community Standards](<https://www.minecraft.net/community-standards>). You can find more information about Minecraft bans [here](<https://help.minecraft.net/hc/en-us/articles/4408964729869>).
+
+**To \_\_appeal\_\_ your ban, and to receive more information about your ban**, please submit a case review via the following link:  
+https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452
+
+*Note: \_\_Bans can't and shouldn't be discussed here in the Minecraft Discord.\_\_ Minecraft staff can only help through the links provided above*
 
 # gamediff
 Need help choosing? Below are links with an overview of the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition!  
@@ -147,6 +179,22 @@ Read the <#910667005634424902> and then use <#910667265760956478> or <#910667146
 
 **Note:** Posting in these channels requires the \_\_Proven Adventurer\_\_ role. Read the <#586810835498696704> on how to get it. You can still read and DM people if you don't have the role yet.
 
+# mc
+<:lurking_chick:1478458659368341626>**Stay off topic!** This channel is for all non-Minecraft discussion. Go to <#752025169048109067> to chat about the game.
+
+If you cannot see that channel, select the Minecraft option from <id:customize> to gain access to the Minecraft category.
+
+# mcdot
+⚠️ **Keep this chat about Minecraft Dungeons! **  
+- If you want to talk about Minecraft, use <#752025169048109067>  
+- If you want to talk about anything that's not Minecraft, use <#305580569238962186>  
+- For anything else, check out our <#401141902797307905> to find the correct channel to use. Thank you!
+
+# mclot
+⚠️ **Keep this chat about Minecraft Legends! **  
+- If you want to talk about Minecraft, use <#752025169048109067>  
+- If you want to talk about anything that's not Minecraft, use <#1475264918474195016>. Thank you!
+
 # mcreportserver
 <:agnes_eww:627001855464964116> **Found a Minecraft Server breaking the EULA?**
 
@@ -166,6 +214,15 @@ Imgur is free and doesn't require an account. On mobile, enable `Desktop mode` i
 :jeb_curious: The deadline for post migration and to migrate your old Legacy/Mojang account has passed. This means that Minecraft Support can no longer assist with migration or any other account-related questions. For further information: https://help.minecraft.net/hc/en-us/articles/19633473939981
 
 Note: Usernames of unmigrated accounts will not be released until a later date. Mojang has not given any specific date for when this will happen.
+
+# modhelp
+<:redstone_dust:691841117012099164> **Moderators and Administrators are not support staff. Minecraft Staff are also not here to provide Minecraft support.**  
+To get help \_\_from other players\_\_ with basic game issues and troubleshooting, post a description of your issue in <#302987265229979649> and wait for someone to help. The awesome people helping in community support are volunteers and players just like you, so please be patient when receiving help.
+
+> <:grass:325831548198715393> For official help with the game, Marketplace purchases, Realms subscriptions, Minecraft.net purchases and other technical issues, visit <https://help.minecraft.net/>  
+> <:xbox:628987335731576855> For official help with your Microsoft/Xbox account and Microsoft/Xbox Store purchases, visit <https://support.xbox.com/>
+
+**Note:** Account and billing issues cannot be solved through Discord. For your own safety, please \_\_do not give out your billing or private information to anyone here\_\_.
 
 # modmail
 :exclamation: If you witness any conduct in our server that violates the rules, please report it using our modmail form **HERE**: <https://dyno.gg/form/5e78810f>
@@ -210,19 +267,27 @@ https://i.imgur.com/hBYu5ZI.png
 
 **\_\_Do not spam\_\_**, post across multiple channels, or post irrelevant off-topic messages, as it is against the <#302094807046684672> and does **not get you the role any faster**.
 
+# partnerapp
+🎨 **If you would like to create content for the Bedrock Marketplace**, you can do so either by joining a current Marketplace team, or by applying to become a partner yourself.
+
+> To find positions from other teams, you can visit their websites or find jobs sites such as <https://www.bucketofcrabs.net/>
+
+> If you want to apply as a partner yourself, you can find more information here: <https://minecraft.net/en-us/partner>  
+> (The applications for this round are closed, but you can sign up for a notification using the form near the bottom of the page)
+
 # pii
 <#302094807046684672>  
 :shield️: **7. No personal information.** Protect your own privacy and safety, as well as that of others, by not requesting or sharing personal information. That includes ages, real names, exact location, IP addresses, etc.
-
-# preview
-<:grass_preview:938005877028421632> Minecraft Preview is a brand new way for you to test out our game without reinstalling the app or having to go through troublesome sign up steps!
-
-Learn more here: https://aka.ms/PreviewFAQ
 
 # pin
 📌 **Check the pinned messages and channel descriptions**  
 You can find all channel-specific info and more in the pinned messages.  
 The channel description gives you a quick overview of what the channel is about.
+
+# preview
+<:grass_preview:938005877028421632> Minecraft Preview is a brand new way for you to test out our game without reinstalling the app or having to go through troublesome sign up steps!
+
+Learn more here: https://aka.ms/PreviewFAQ
 
 # pol
 <#302094807046684672> - :classical_building:️ **No political or religious topics.**  
@@ -230,6 +295,21 @@ These complex subjects result in controversial and offensive posts that can offe
 
 # pref
 **Minecraft is Minecraft.** All editions are great and each has its own strong points. Play the edition that you prefer and let others do the same.
+
+# quest
+\# The Copper Cape Quest
+This quest is a 3-part community challenge that we all must complete together. As we complete each stage, we'll unlock rewards for the entire community. If we complete all 3 phases, we unlock the **Copper Cape**!
+
+You can contribute to any of the below phases in any world, it's not specific to a server or anything. For example, phase 1. Open up your world in the latest version, summon a copper golem friend, and there you have it. You've contributed! Both survival and creative gamemodes count. For the full details, visit <https://www.minecraft.net/en-us/article/the-copper-cape-quest>.
+
+**Phase 1**  
+Help summon 75 million copper golems. We have from <t:1759244400:F> to <t:1759770000:F> to achieve this task together. 
+
+**Phase 2**  
+Unlocked once phase 1 is complete.
+
+**Phase 3**  
+Unlocked once phase 2 is complete.
 
 # refund
 Find out if you're eligible to receive a refund for Minecraft: Java Edition or Minecraft Realms subscriptions, and view refund policies for your device’s store for Minecraft (Bedrock) and Minecoin purchases.  
@@ -257,6 +337,9 @@ Listing all the System Requirements will be too long. So you can read up on the 
 
 We have listed details for PC Java and Bedrock in <#302987265229979649> pins for your convenience.  
 <https://discordapp.com/channels/302094807046684672/302987265229979649/1080436820413780018>
+
+# staffping
+🔕 **5. Don't @mention or direct message Minecraft Staff.** Respect their time, they're people too.
 
 # support
 <:grass:325831548198715393> Get help \_\_**from Minecraft Support**\_\_ with the game, the marketplace, Realms, and other technical issues via <https://help.minecraft.net/>.

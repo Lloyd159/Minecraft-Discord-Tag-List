@@ -11,7 +11,7 @@ These are mostly for fun and jokes, reminder not to spam or abuse them!
 <:steve_suspicious:726091789265535056> I wish this chat was as chill as A**chill**es
 
 # anna
-https://cdn.discordapp.com/attachments/787128980167458816/1203454550871379999/image.png?ex=6a079264&is=6a0640e4&hm=10ea6b6e78dd81049296477fef2afcb93d4ab4e63aabe00093ac687397e01cea&
+![(missing img) Bot explains words](https://cdn.discordapp.com/attachments/787128980167458816/1203454550871379999/image.png?ex=6a079264&is=6a0640e4&hm=10ea6b6e78dd81049296477fef2afcb93d4ab4e63aabe00093ac687397e01cea&)
 
 # ayu
 Mace needs a buff
@@ -61,9 +61,6 @@ Buh?! Oh, that's just my default setting.
 # ky
 ky is a goofy goober
 
-# livia
-did you mean selyn?
-
 # lza
 LZA kinda sus, lol
 
@@ -102,8 +99,14 @@ Ravioli is always fine <:KeepCool:776302469256052749>
 # ryan
 Ryan is too cool to have a tag!
 
+# salty
+Sean doesn't know how to create tags. What a boomer.
+
+# sean
+📠 *Time to fax SmokeyStacks!*
+
 # selyn
-did you mean livia?
+Mods don’t bite, except for Selyn… be careful around her <a:alex_look:588589372153135104>
 
 # snipez
 <:red_x:589630583857217546> Something went wrong.

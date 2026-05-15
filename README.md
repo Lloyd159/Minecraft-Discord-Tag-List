@@ -26,7 +26,7 @@ That being said, feel free to ping me on any questions or suggestions like missi
 - [`lang`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/lang.md):  
     Language tags are tags which inform people that the server is english-only, except for language  
     categorys in their native language. Each tag in this category does this in a different language.  
-- [`names`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/names.m):  
+- [`names`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/names.md):  
     Special tags about various people, usually mods or admins.
 
 ### How this repo works:

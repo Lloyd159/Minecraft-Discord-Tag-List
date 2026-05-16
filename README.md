@@ -38,15 +38,6 @@ That being said, feel free to ping me on any questions or suggestions like missi
   and not always up to date. As I have no access to any official list, I can only add those I know  
   about. Therefore help with any missing tags is greatly appreciated!
 
-### Other files:
-Besides the category files (see above), there are multiple other files in this repo.  
-Here is a breakdown:  
-- [`README.md`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/README.md)  
-	This file. Contains information about this github.  
-- [`removed tags.md`](https://github.com/Lloyd159/Minecraft-Discord-Tag-List/blob/main/other%20tags.md)  
-	Contains tags which are unkown or still missing in this repo, like I know the message by the bot  
-	but have no clue what the tag is called, or tags which got removed or are currently not working.
-
 ### If you see mistakes or outdated/missing tags:
 - Create an issue on this repo  
 - Message me on discord (via ping in the server or DM, state why you are messaging in your first  

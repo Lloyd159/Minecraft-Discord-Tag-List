@@ -20,7 +20,8 @@ Mace needs a buff
 Bugsy is pretty cool!
 
 # cala
-Cala is secretly a cat, but they're too insecure about it, so they got their tag renamed to emby
+Cala hereby wishes happiness upon thee <:alex_cozy:932361217438253086> 🥺  
+maybe, idk
 
 # celesian
 Ninjas don’t exist. Except Celesian, Celesian **always** watching <:steve_suspicious:726091789265535056>
@@ -119,9 +120,6 @@ Magic doesn't exist... unless its from Tomh**magic** <a:nyan_ghast:3936391975647
 
 # trb
 TheRaddestBro is an engineer who works on the Redmond/Bedrock Platform team. Right now, he is focusing on user storage management. Which means fixing bugs with data loss, corrupted worlds, and cloud storage sync issues (Xbox). Did you know, on Xbox One you only get 16 Gb of local save space total for all apps, no matter how large your HD is? On Switch, it's only 2 Gb!
-
-# valk
-valkyrie, don't do it, don't make another bot
 
 # xg
 XG be vibing, let’s vibe with him <a:steve_spin:840718497591328798>

@@ -125,7 +125,7 @@ Want to try out multiplayer as well? Subscribe to **Xbox Game Pass** (Xbox conso
 You can also travel back in time and try a very early Minecraft version for free right in your browser! <https://classic.minecraft.net>
 
 # down
-**No Current Outages**
+**No Current Outages**  
 There are no known current outages.
 
 -# Last updated <t:1780492932:R>
@@ -319,6 +319,9 @@ https://help.minecraft.net/hc/en-us/articles/360030463592
 ⚠️ **Moderators and Administrators are not accepting reports for offenses in DMs or other servers.**
 
 We understand you mean well, but we cannot fully verify anything that happens outside of this server. Don't name and shame or engage in arguments with offenders. Right-click or tap and hold the message, then select [\_\_Report Message\_\_](<https://dis.gd/howtoreport>) so Discord can deal with them appropriately. Thank you.
+
+# respect
+Everyone is welcome here, and everyone is expected to treat one another with respect. Discussions that target or demean people based on their identity are not appropriate for this community and may result in moderation action.
 
 # roles
 <:agnes:494553591755833355> Check out our <#586810835498696704> to learn more about earning roles, permissions to use LFG, and how to send images!

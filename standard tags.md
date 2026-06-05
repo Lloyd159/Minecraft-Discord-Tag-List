@@ -125,10 +125,10 @@ Want to try out multiplayer as well? Subscribe to **Xbox Game Pass** (Xbox conso
 You can also travel back in time and try a very early Minecraft version for free right in your browser! <https://classic.minecraft.net>
 
 # down
-**⚠️ Realms issues**  
-There are reports of Realms experiencing connection problems. If you are unable to see or connect to your realms, please wait until the issue is fixed. Mojang has been informed and there is currently no workaround and no estimate on when the issue will be fixed.
+**No Current Outages**
+There are no known current outages.
 
--# Last updated <t:1769974500:R>
+-# Last updated <t:1780492932:R>
 
 # feedback
 :bulb: Submit your ideas and suggestions for Minecraft and the Minecraft Discord on the official feedback server.  

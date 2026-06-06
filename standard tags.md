@@ -130,6 +130,20 @@ There are no known current outages.
 
 -# Last updated <t:1780492932:R>
 
+# drops
+\## How to unlock the Builder Cape and Crafter Cape
+
+Twitchcon Rotterdam has presented us with two new capes to earn, the Builder Cape and Crafter Cape! 
+
+The \*\*Crafter\*\* Cape is only available for those who attend Twitchcon \*\*\*in-person\*\*\*. The code distribution will end when the event ends on Sunday, May 31, 2026. Visit https://www.minecraft.net/en-us/article/join-minecraft-at-twitchcon for more information!
+
+The \*\*Builder\*\* Cape is also available for those who couldn't attend Twitchcon in-person. Available from <t:1780155000:F>  to <t:1781506740:F>, this cape can be earned by watching 3 minutes of Minecraft content on TikTok OR 5 minutes on Twitch to get the exclusive Builder Cape. For more information on earning this cape, see here: https://discord.com/channels/302094807046684672/1475264918474195016/1511830914274168933
+
+Both capes can be redeemed by entering the 5x5 code into https://www.minecraft.net/en-us/redeem.
+
+\### Note: The Builder Cape code may take time to show up. Please be patient!
+\-# Last updated: <t:1780519046:f>
+
 # feedback
 :bulb: Submit your ideas and suggestions for Minecraft and the Minecraft Discord on the official feedback server.  
 https://discord.gg/MinecraftFeedback
@@ -297,19 +311,12 @@ These complex subjects result in controversial and offensive posts that can offe
 **Minecraft is Minecraft.** All editions are great and each has its own strong points. Play the edition that you prefer and let others do the same.
 
 # quest
-\# The Copper Cape Quest
-This quest is a 3-part community challenge that we all must complete together. As we complete each stage, we'll unlock rewards for the entire community. If we complete all 3 phases, we unlock the **Copper Cape**!
+\#\#\# How to unlock Victor's Coat & Victor's Laurel Wings  
+Once more we have been challenged as a community, this time we have some character creator items up for grabs, \*\*Victor's Coat\*\* and \*\*Victor's Laurel Wings\*\*. We have from <t:1767801600:F> to <t:1768244400:F> to \*\*mine 4.25 billion stone blocks\*\* and \*\*defeat 1.75 billion mobs**.
 
-You can contribute to any of the below phases in any world, it's not specific to a server or anything. For example, phase 1. Open up your world in the latest version, summon a copper golem friend, and there you have it. You've contributed! Both survival and creative gamemodes count. For the full details, visit <https://www.minecraft.net/en-us/article/the-copper-cape-quest>.
+Time stamps shown above are automatically shown in your timezone. Challenges must be completed on Bedrock Edition. If completed successfully, rewards will be available in the character creator also in Bedrock Edition. Full details available here: <https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards>.
 
-**Phase 1**  
-Help summon 75 million copper golems. We have from <t:1759244400:F> to <t:1759770000:F> to achieve this task together. 
-
-**Phase 2**  
-Unlocked once phase 1 is complete.
-
-**Phase 3**  
-Unlocked once phase 2 is complete.
+-# Last updated <t:1767979320:f>
 
 # refund
 Find out if you're eligible to receive a refund for Minecraft: Java Edition or Minecraft Realms subscriptions, and view refund policies for your device’s store for Minecraft (Bedrock) and Minecoin purchases.  

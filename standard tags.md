@@ -135,13 +135,13 @@ There are no known current outages.
 
 Twitchcon Rotterdam has presented us with two new capes to earn, the Builder Cape and Crafter Cape! 
 
-The \*\*Crafter\*\* Cape is only available for those who attend Twitchcon \*\*\*in-person\*\*\*. The code distribution will end when the event ends on Sunday, May 31, 2026. Visit https://www.minecraft.net/en-us/article/join-minecraft-at-twitchcon for more information!
+The **Crafter** Cape is only available for those who attend Twitchcon ***in-person***. The code distribution will end when the event ends on Sunday, May 31, 2026. Visit https://www.minecraft.net/en-us/article/join-minecraft-at-twitchcon for more information!
 
-The \*\*Builder\*\* Cape is also available for those who couldn't attend Twitchcon in-person. Available from <t:1780155000:F>  to <t:1781506740:F>, this cape can be earned by watching 3 minutes of Minecraft content on TikTok OR 5 minutes on Twitch to get the exclusive Builder Cape. For more information on earning this cape, see here: https://discord.com/channels/302094807046684672/1475264918474195016/1511830914274168933
+The **Builder** Cape is also available for those who couldn't attend Twitchcon in-person. Available from <t:1780155000:F>  to <t:1781506740:F>, this cape can be earned by watching 3 minutes of Minecraft content on TikTok OR 5 minutes on Twitch to get the exclusive Builder Cape. For more information on earning this cape, see here: https://discord.com/channels/302094807046684672/1475264918474195016/1511830914274168933
 
 Both capes can be redeemed by entering the 5x5 code into https://www.minecraft.net/en-us/redeem.
 
-\### Note: The Builder Cape code may take time to show up. Please be patient!
+\### Note: The Builder Cape code may take time to show up. Please be patient!  
 \-# Last updated: <t:1780519046:f>
 
 # feedback
@@ -311,8 +311,8 @@ These complex subjects result in controversial and offensive posts that can offe
 **Minecraft is Minecraft.** All editions are great and each has its own strong points. Play the edition that you prefer and let others do the same.
 
 # quest
-\#\#\# How to unlock Victor's Coat & Victor's Laurel Wings  
-Once more we have been challenged as a community, this time we have some character creator items up for grabs, \*\*Victor's Coat\*\* and \*\*Victor's Laurel Wings\*\*. We have from <t:1767801600:F> to <t:1768244400:F> to \*\*mine 4.25 billion stone blocks\*\* and \*\*defeat 1.75 billion mobs**.
+\### How to unlock Victor's Coat & Victor's Laurel Wings  
+Once more we have been challenged as a community, this time we have some character creator items up for grabs, **Victor's Coat** and **Victor's Laurel Wings**. We have from <t:1767801600:F> to <t:1768244400:F> to **mine 4.25 billion stone blocks** and **defeat 1.75 billion mobs**.
 
 Time stamps shown above are automatically shown in your timezone. Challenges must be completed on Bedrock Edition. If completed successfully, rewards will be available in the character creator also in Bedrock Edition. Full details available here: <https://www.minecraft.net/en-us/article/kick-off-the-year-with-new-rewards>.
 

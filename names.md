@@ -118,8 +118,5 @@ Miep Miep! You are now mieped
 # tom
 Magic doesn't exist... unless its from Tomh**magic** <a:nyan_ghast:393639197564731392>
 
-# trb
-TheRaddestBro is an engineer who works on the Redmond/Bedrock Platform team. Right now, he is focusing on user storage management. Which means fixing bugs with data loss, corrupted worlds, and cloud storage sync issues (Xbox). Did you know, on Xbox One you only get 16 Gb of local save space total for all apps, no matter how large your HD is? On Switch, it's only 2 Gb!
-
 # xg
 XG be vibing, let’s vibe with him <a:steve_spin:840718497591328798>

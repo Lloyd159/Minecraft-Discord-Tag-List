@@ -60,14 +60,6 @@ Buy Minecraft on your device's store or the official site.
 You can also play Minecraft via Xbox Game Pass, for Xbox consoles and Windows PCs  
 <https://www.xbox.com/xbox-game-pass>
 
-# channels
-\# Looking For Other Channels?
-
-You need roles to see most channels here, such as the game discussion or art channels. These can be obtained by going to <id:customize>.
-
-- Select either **Minecraft** or **Dungeons** to see their channels.  
-- Select **Creative Corner** to talk about builds, skins, and fan-art, or to showcase your creations.
-
 # civil
 <#302094807046684672>  
 :smiley: **Be cool, kind, and civil.** Treat all members with respect and express your thoughts in a constructive manner.
@@ -219,10 +211,14 @@ Please do not call out, retaliate, provoke, antagonize, or start a witch hunt ag
 Instead, find out how to report a server to the Minecraft team using the following link: https://help.minecraft.net/hc/en-us/articles/4409161646989-How-to-Report-a-Minecraft-Server
 
 # media
-:frame_photo:️ **Don't have permissions to post images or videos?**  
-You need the \_\_Proven Adventurer role\_\_ to send media directly in most channels. Read the <#586810835498696704> on how to get the role. If you don't have the role yet, upload your images and videos to <https://imgur.com/upload> and share the link.
+🖼️ Don’t have permission to post images or videos?  
+You need the Proven Adventurer role to send media directly in most channels. Check <#586810835498696704> to learn how to get the role.
 
-Imgur is free and doesn't require an account. On mobile, enable `Desktop mode` in your browser to upload images to imgur.
+If you don’t have the role yet, you can upload your images or videos to a third-party hosting site and share the link instead, such as:  
+- <https://imgbb.com/>  
+- <https://imgur.com/upload>
+
+These services are free to use, though availability may vary by region. Some may also work without an account.
 
 # migration
 :jeb_curious: The deadline for post migration and to migrate your old Legacy/Mojang account has passed. This means that Minecraft Support can no longer assist with migration or any other account-related questions. For further information: https://help.minecraft.net/hc/en-us/articles/19633473939981
@@ -362,10 +358,15 @@ We have listed details for PC Java and Bedrock in <#302987265229979649> pins for
 When it's done.
 
 # welcome
-👋 Welcome to all new members!  
-📖 Read<#302094807046684672> and <#586810835498696704>.  
-🎯 Stay on topic.  
-🗨️ Go to <#1475264918474195016> for non-Minecraft chat.
+# Welcome!  
+You need roles to see most channels here, such as the game discussion or art channels. These can be obtained by going to <id:customize>.  
+- Select either \*\*Minecraft\*\*, **Dungeons**, or **Education** to see their channels.  
+- Select **Creative Corner** to talk about builds, skins, and fan-art, or to showcase your creations.  
+
+Welcome to all new members! 👋  
+- Read <#302094807046684672> and <#586810835498696704>.  
+- Stay on topic.  
+- Go to <#1475264918474195016> for non-Minecraft chat.
 
 # whatsapp
 Did you know we have a whatsapp channel? Here's the link to join: <https://aka.ms/MCWhatsApp>

@@ -358,15 +358,15 @@ We have listed details for PC Java and Bedrock in <#302987265229979649> pins for
 When it's done.
 
 # welcome
-# Welcome!  
-You need roles to see most channels here, such as the game discussion or art channels. These can be obtained by going to <id:customize>.  
-- Select either \*\*Minecraft\*\*, **Dungeons**, or **Education** to see their channels.  
-- Select **Creative Corner** to talk about builds, skins, and fan-art, or to showcase your creations.  
 
 Welcome to all new members! 👋  
+\## Welcome to all new members! 👋  
+Here's a few things you should do before you start chatting:  
 - Read <#302094807046684672> and <#586810835498696704>.  
-- Stay on topic.  
-- Go to <#1475264918474195016> for non-Minecraft chat.
+- Select the right roles to see the right channels, <id:customize>.  
+  - Select either **Minecraft**, **Dungeons**, or **Education** to see their channels.  
+  - Select **Creative Corner** to talk about builds, skins, and fan-art, or to showcase your creations.  
+- Keep the channel topic in mind; visit <#1475264918474195016> for non-Minecraft chat.
 
 # whatsapp
 Did you know we have a whatsapp channel? Here's the link to join: <https://aka.ms/MCWhatsApp>

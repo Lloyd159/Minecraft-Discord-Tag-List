@@ -94,20 +94,6 @@ Discord Terms of Service and government laws (COPPA, GDPR) don't allow users who
 
 We encourage sharing, discussing, and asking for feedback or advice on your own creations, but we ask that you refrain from using the server to seek clients, collaborators or creators.
 
-# cs
-\# This is a *Community* Support Channel
-
-\## This is **not** a chat channel. 
-See <id:customize> to get the necessary roles to chat in the appropriate channels.
-
-**Be patient when seeking help**, as support given here is at-will. People will give the best recommendations they can according to their knowledge and experience, but you are not obligated to follow them, unless otherwise stated in <#302094807046684672>. People may choose to discontinue helping you at any time.
-
-All rules from <#302094807046684672> apply here. Do not spam, "bump" your request, ping others for support, or ping someone repeatedly.
-
-**Server staff (moderators and assistant moderators) are not support staff**, and all the principles above apply to them just as much as anyone else. Moderator pings are reserved for server or moderation emergencies only, not for support.
-
-\_\_Your need for support does not supersede the rules.\_\_ Please be patient and kind to those around you.
-
 # demo
 <:agnes:494553591755833355> **Want to try Minecraft before buying it?**  
 Try the free trial for your device here: <https://www.minecraft.net/free-trial>
@@ -294,14 +280,14 @@ https://i.imgur.com/hBYu5ZI.png
 You can find all channel-specific info and more in the pinned messages.  
 The channel description gives you a quick overview of what the channel is about.
 
+# pol
+<#302094807046684672> - :classical_building:️ **No political or religious topics.**  
+These complex subjects result in controversial and offensive posts that can offend, hurt, and create a non-inclusive environment.
+
 # preview
 <:grass_preview:938005877028421632> Minecraft Preview is a brand new way for you to test out our game without reinstalling the app or having to go through troublesome sign up steps!
 
 Learn more here: https://aka.ms/PreviewFAQ
-
-# pol
-<#302094807046684672> - :classical_building:️ **No political or religious topics.**  
-These complex subjects result in controversial and offensive posts that can offend, hurt, and create a non-inclusive environment.
 
 # pref
 **Minecraft is Minecraft.** All editions are great and each has its own strong points. Play the edition that you prefer and let others do the same.

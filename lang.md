@@ -44,6 +44,9 @@ Hallo! De leden van onze server spreken voornamelijk Engels. Minecraft is een sp
 # pt (Portuguese)
 Olá! Os membros deste servidor falam principalmente inglês. Minecraft é uma comunidade mundial. O inglês é a língua comum que permite que a maioria dos membros se comuniquem entre si.
 
+# ro
+Bună! Membrii acestui server vorbesc de regulă engleză. Minecraft este o comunitate mondială. Engleza este limba comună care permite majorității membrilor să comunice între ei.
+
 # ru (Russian)
 Привет! Члены этого сервера в основном говорят по-английски. Minecraft — это мировое сообщество. Английский язык является общим языком, который позволяет большинству членов общаться друг с другом.
 

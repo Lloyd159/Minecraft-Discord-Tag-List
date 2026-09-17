@@ -35,23 +35,12 @@ Cookiie stop making sillie tags
 # crystal
 *Everyone here is cool*
 
-# duckable
-duckable is the best everyone give hugs to them pls 💗
-
 # emby
 block game good
 
-# etech
-Most creepers explode when you hug them. But Etech doesn’t <:creeper:425369771026939914> <:steve_hug:641909874187304960>
-
-# fen
-https://cdn.discordapp.com/attachments/648302942146920478/1281403917984600086/6-157028872.jpg?ex=6a085ca5&is=6a070b25&hm=b82c8308659feeef509e2c2cc78eea52ef245dc1fb2adc609b38dd2f608da6c4&
-
-# ferm
-no… no… no… you did it wrooong… its fern smh
-
-# fern
-https://cdn.discordapp.com/attachments/648302942146920478/1395146931709415584/sylvflare_5_lurk.png?ex=6a078855&is=6a0636d5&hm=58a316640c3320a272f769b5dd0d97eba0fcea2b9f3185c370d011940019a4ab&
+# john
+**<:jeb_think:494553523065978905> Did You Know? <:jeb_think:494553523065978905>**  
+The Venn Diagram was invented by John Venn, when he tried to compare and contrast two things at the same time.
 
 # jura
 Jura is the smartest person you’ll ever know, confirmed. No exceptions. None.
@@ -68,34 +57,16 @@ LZA kinda sus, lol
 # LZA
 IT'S IN IT!
 
-# minari
-https://cdn.discordapp.com/attachments/1367907795579699342/1466821356288213064/Screenshot_2025-05-23_172425.png?ex=6a07e817&is=6a069697&hm=1d3ffec6a5b54df2e459f6a4ba311566553b6e52a98f741ab61759ff8a5896e3&
-
 # mother
 https://tenor.com/view/mother-gothel-mother-knows-best-rapunzel-gif-5568407
 
-# murph
-The man, the legend, the **original**, the one and only. You know em, you love em, it’s Murph lord <:mc_heart:589630433243955205>
-
-# murphban
-<:dynoSuccess:696561641227288639> ***moonbootmurphy has been unbanned***
-
-# notlucid1
-Someone feels left out...https://cdn.discordapp.com/attachments/787128980167458816/1309241320149352500/image.png?ex=6740dd7f&is=673f8bff&hm=d3c40c73036e4b4e5bedeeeb8e73a3c81f000a8d6957b7c10a30f4d2ea04fb65&	
-
 # plague
 Hydrate or diedrate!
-
-# poetic
-If you ever get stuck on a trivia night about Hogwarts, Poetic is the guy to call - and believe me, it’s gonna happen <:snow_golem:735237008099639306>
 
 # rangerdon
 If you need someone to chill with, RangerDon is your guy. He’s always chillen <:steve_cowboy:592954156411781120> 
 
 Don’t get on his bad side though, he’s *always watching* <:steve_suspicious:726091789265535056>
-
-# ravioli
-Ravioli is always fine <:KeepCool:776302469256052749>
 
 # ryan
 Ryan is too cool to have a tag!
@@ -105,6 +76,12 @@ Sean doesn't know how to create tags. What a boomer.
 
 # sean
 📠 *Time to fax SmokeyStacks!*
+
+# seanissue
+https://cdn.discordapp.com/attachments/302099146834313217/1463649484440473777/seansissue.png?ex=69d033ce&is=69cee24e&hm=2de9e3d0b9c175121470e8df2318f4478e5eb159f9b1e19ffa62fb29557686e0
+
+# secret
+It’s a Secret™. 🤫
 
 # selyn
 Mods don’t bite, except for Selyn… be careful around her <a:alex_look:588589372153135104>
@@ -117,6 +94,10 @@ Miep Miep! You are now mieped
 
 # tom
 Magic doesn't exist... unless its from Tomh**magic** <a:nyan_ghast:393639197564731392>
+
+# ufo
+wish revoked  
+you now have no tag
 
 # xg
 XG be vibing, let’s vibe with him <a:steve_spin:840718497591328798>

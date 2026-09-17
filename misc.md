@@ -25,8 +25,8 @@ Ba dum tss! 🥁
 # creeper
 ssssss...
 
-# dad
-discord after dark
+# fishbowl
+There's people who prefer looking at a Minecraft world normally, and then there's those that insist on looking at it through a fish bowl.
 
 # fork
 🍴The Forks have been lifted.  

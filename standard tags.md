@@ -94,6 +94,9 @@ Discord Terms of Service and government laws (COPPA, GDPR) don't allow users who
 
 We encourage sharing, discussing, and asking for feedback or advice on your own creations, but we ask that you refrain from using the server to seek clients, collaborators or creators.
 
+# dcid
+How to get find a Discord User ID: <https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID->
+
 # demo
 <:agnes:494553591755833355> **Want to try Minecraft before buying it?**  
 Try the free trial for your device here: <https://www.minecraft.net/free-trial>
@@ -109,18 +112,31 @@ There are no known current outages.
 -# Last updated <t:1780492932:R>
 
 # drops
-\## How to unlock the Builder Cape and Crafter Cape
+\## Minecraft Dungeons II Promo Capes  
+<https://www.minecraft.net/en-us/article/minecraft-dungeons-ii-capes-promos>
 
-Twitchcon Rotterdam has presented us with two new capes to earn, the Builder Cape and Crafter Cape! 
+**Hero Cape**  
+1. Play Minecraft Dungeons I.  
+2. Log into Minecraft Dungeons II when it releases.  
+3. Once you receive information about the cape in Minecraft Dungeons II, you can log into Minecraft Java or Bedrock Edition to unlock it there too.  
+\-# Ensure you use the same Microsoft account across all games.
 
-The **Crafter** Cape is only available for those who attend Twitchcon ***in-person***. The code distribution will end when the event ends on Sunday, May 31, 2026. Visit https://www.minecraft.net/en-us/article/join-minecraft-at-twitchcon for more information!
+**Twisted Cape**  
+1. Pre-order Minecraft Dungeons II.  
+2. Log into Minecraft Dungeons II once it releases and claim your pre-order items.  
+3. You can then log into Minecraft Java or Bedrock Edition to unlock it there too.  
+\-# Ensure you use the same Microsoft account across both games.
 
-The **Builder** Cape is also available for those who couldn't attend Twitchcon in-person. Available from <t:1780155000:F>  to <t:1781506740:F>, this cape can be earned by watching 3 minutes of Minecraft content on TikTok OR 5 minutes on Twitch to get the exclusive Builder Cape. For more information on earning this cape, see here: https://discord.com/channels/302094807046684672/1475264918474195016/1511830914274168933
+**Soul Cape**  
+- Unlocked by purchasing the [Deluxe Edition of Minecraft Dungeons II](<https://www.minecraft.net/en-us/store/minecraft-dungeons-ii-deluxe-edition>).
 
-Both capes can be redeemed by entering the 5x5 code into https://www.minecraft.net/en-us/redeem.
+**Corrupted Creeper Cape**  
+- Obtained through various promotional activities before and around the launch of Minecraft Dungeons II. It all starts with Gamescom, but stay tuned for more information for other upcoming events.
 
-\### Note: The Builder Cape code may take time to show up. Please be patient!  
-\-# Last updated: <t:1780519046:f>
+**Special Cape**  
+- Stay tuned for more information.
+
+\-# Last updated: <t:1788051600:F>
 
 # feedback
 :bulb: Submit your ideas and suggestions for Minecraft and the Minecraft Discord on the official feedback server.  
@@ -142,6 +158,9 @@ https://help.minecraft.net/hc/en-us/requests/new?ticket_form_id=360003469452
 Need help choosing? Below are links with an overview of the differences between Minecraft: Bedrock Edition and Minecraft: Java Edition!  
 - <https://help.minecraft.net/hc/en-us/articles/360058534412>  
 - <https://www.minecraft.net/en-us/article/java-or-bedrock-edition>  
+
+# gs
+The recently added <#1463283574534049917> channel was made with the intention of keeping our community and players informed within Discord and part of our ongoing updates to this server over the course of 2026.
 
 # kil
 <:chick:1478458684907585640> **Keep it Live!**  

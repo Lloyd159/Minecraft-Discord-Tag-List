@@ -8,7 +8,7 @@ When using tags inside the discord server, __do not spam them__! Instead, use ea
 needed. This includes "trying tags out" to see how they work or fooling around using them.  
 The server's [rules](https://discord.com/channels/302094807046684672/302094807046684672) always apply.
 
-That being said, feel free to ping me on any questions or suggestions like missing tags etc.  
+That being said, feel free to ping or dm me on any questions or suggestions like missing tags etc.  
 -> Do not just tag me tho, but explain what the question/suggestion is in the message with the mention.
 
 ### How to use tags:
@@ -35,8 +35,7 @@ That being said, feel free to ping me on any questions or suggestions like missi
 - Small details as underlines or emojis may be missing as markdown text (used in these files) does  
   not really allow them. Emojis are typed out with their name and id, following discord's format.  
 - As this list is not official and run by the community in their free time, it may not be complete  
-  and not always up to date. As I have no access to any official list, I can only add those I know  
-  about. Therefore help with any missing tags is greatly appreciated!
+  and not always up to date. I don't regularly check tags, therefore help with any missing or out-of-date tags is greatly appreciated!
 
 ### If you see mistakes or outdated/missing tags:
 - Create an issue on this repo  

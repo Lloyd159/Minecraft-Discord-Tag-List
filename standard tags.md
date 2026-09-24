@@ -175,7 +175,7 @@ https://help.minecraft.net/hc/en-us/articles/360040841471
 
 # livewhen
 ⏰ **When is Minecraft Live?**  
-LIVE Show: <t:1774112400:F> (<t:1774112400:R>)  
+LIVE Show: <t:1790442000:F> (<t:1790442000:R>)  
 (Shown in your device’s local timezone)
 
 # livewhere
